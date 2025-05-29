@@ -11,3 +11,4 @@ How to run the project:
 2. npx vite to run the project.
 3. Access the project http://localhost:5173/.
 Github Link:
+https://github.com/GayathriSubbiah/React-projects/tree/main/React_Final_Project/shoppyglobe
